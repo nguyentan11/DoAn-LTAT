@@ -1,0 +1,9 @@
+D:\SafeProgram-Project\SafeProgram-Project\bin\Debug\SafeProgram-Project.exe.config
+D:\SafeProgram-Project\SafeProgram-Project\bin\Debug\SafeProgram-Project.exe
+D:\SafeProgram-Project\SafeProgram-Project\bin\Debug\SafeProgram-Project.pdb
+D:\SafeProgram-Project\SafeProgram-Project\obj\Debug\Client01.csprojResolveAssemblyReference.cache
+D:\SafeProgram-Project\SafeProgram-Project\obj\Debug\SafeProgram_Project.Form1.resources
+D:\SafeProgram-Project\SafeProgram-Project\obj\Debug\SafeProgram_Project.Properties.Resources.resources
+D:\SafeProgram-Project\SafeProgram-Project\obj\Debug\Client01.csproj.GenerateResource.Cache
+D:\SafeProgram-Project\SafeProgram-Project\obj\Debug\SafeProgram-Project.exe
+D:\SafeProgram-Project\SafeProgram-Project\obj\Debug\SafeProgram-Project.pdb

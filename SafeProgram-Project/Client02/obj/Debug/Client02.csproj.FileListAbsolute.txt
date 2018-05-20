@@ -1,0 +1,9 @@
+D:\SafeProgram-Project\Client02\bin\Debug\Client02.exe.config
+D:\SafeProgram-Project\Client02\bin\Debug\Client02.exe
+D:\SafeProgram-Project\Client02\bin\Debug\Client02.pdb
+D:\SafeProgram-Project\Client02\obj\Debug\Client02.csprojResolveAssemblyReference.cache
+D:\SafeProgram-Project\Client02\obj\Debug\Client02.Form1.resources
+D:\SafeProgram-Project\Client02\obj\Debug\Client02.Properties.Resources.resources
+D:\SafeProgram-Project\Client02\obj\Debug\Client02.csproj.GenerateResource.Cache
+D:\SafeProgram-Project\Client02\obj\Debug\Client02.exe
+D:\SafeProgram-Project\Client02\obj\Debug\Client02.pdb
